@@ -14,8 +14,6 @@ namespace Product_Inventory_Project
 
         public int _price { get; set; }
 
-        public Fruits next { get; set; }
-
         public Fruits() 
         {
 
